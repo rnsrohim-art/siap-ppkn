@@ -1,0 +1,6 @@
+{
+  "name": "SIAP PPKn - Sistem Integrasi Administrasi Pembelajaran",
+  "description": "Aplikasi penyusun dan pengelola administrasi pembelajaran PPKn Kurikulum Merdeka otomatis dengan ekspor dokumen Alur Tujuan Pembelajaran (ATP) format Microsoft Word .docx.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
